@@ -1,0 +1,26 @@
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# DuckDB / Databases
+*.duckdb
+*.db
+
+# macOS
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
