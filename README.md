@@ -1,5 +1,12 @@
 # SQL Window Functions Mastery
 
+> [!CAUTION]
+> **⚠️ Disclaimer**
+> 1. This entire project (code, tutorials, exercises, solutions, and documentation) is **auto-generated** using various AI tools, including **Antigravity**, **Gemini**, and **ChatGPT**.
+> 2. While the exercises have been **manually verified by humans**, there is **no guarantee of correctness, completeness, or safety**.
+> 3. **Use at your own risk.** The developers assume no responsibility for any issues, errors, or damages arising from the use of this repository.
+> 4. This is NOT intended to be a serious production or academic project; it is a **personal learning journey** and experimentation with AI-assisted coding.
+
 Welcome to the **SQL Window Functions Mastery** project! This repository contains a comprehensive set of tutorials, interactive exercises, and interview questions designed to help you master SQL Window Functions using **DuckDB** and **Python**.
 
 ## 📖 Overview
