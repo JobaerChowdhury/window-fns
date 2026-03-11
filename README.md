@@ -12,7 +12,9 @@ This project covers the most important window functions categorized into the fol
 - **Value Functions**: `LAG()`, `LEAD()`, `FIRST_VALUE()`, `LAST_VALUE()`
 - **Aggregate Functions**: `SUM() OVER()`, `AVG() OVER()`, `COUNT() OVER()`, `MIN() OVER()`, `MAX() OVER()`
 - **Distribution & Statistical Functions**: `NTILE()`, `CUME_DIST()`, `PERCENT_RANK()`
-- **Interview Questions**: A dedicated suite of common SQL interview challenges to test your skills holding everything together.
+
+### 🏆 The End Goal: Interview Questions
+All the modules above serve as preparation for the **Interview Questions** suite. This is where you put your skills to the test with 20 common SQL interview challenges that require combining multiple window function techniques.
 
 ## 📂 Project Structure
 
@@ -58,6 +60,12 @@ Navigate to the `exercises/` folder of the module you are studying. Open a file,
 python value_functions/exercises/lag.py
 ```
 If your output matches the expected results, the script will let you know you passed!
+
+#### 💡 Need a Hint?
+For the **Interview Questions**, if you're stuck, you can get a conceptual hint by adding `hint` to the command:
+```bash
+python interview_questions/exercises/01_top_n_records.py hint
+```
 
 ### Running Everything
 You can also run all tutorials or exercises in a module using the `run_all.py` script:
