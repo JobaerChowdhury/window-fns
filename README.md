@@ -7,7 +7,9 @@
 > 3. **Use at your own risk.** The developers assume no responsibility for any issues, errors, or damages arising from the use of this repository.
 > 4. This is NOT intended to be a serious production or academic project; it is a **personal learning journey** and experimentation with AI-assisted coding.
 
-Welcome to the **SQL Window Functions Mastery** project! This repository contains a comprehensive set of tutorials, interactive exercises, and interview questions designed to help you master SQL Window Functions using **DuckDB** and **Python**.
+Welcome to the **SQL Window Functions Mastery** project! This repository contains a comprehensive set of tutorials, interactive exercises, and interview questions designed to help you master SQL Window Functions using **DuckDB** and **Python**. 
+
+Why **DuckDB**? Normally it is cumbersome to setup/connect to a database server. DuckDB allows us to work on data using SQL from within Python. It is the simplest approach for learning and practicing the Window functions here.  
 
 ## 📖 Overview
 
